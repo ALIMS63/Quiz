@@ -33,6 +33,8 @@ $ npm start
 
 ### CREATORS
 
+[Fullstack Developer, Шогенов Алим](https://github.com/ALIMS63)
+
 [Fullstack Developer, Безобразов Григорий](https://github.com/bezzskilla)
 
 [Fullstack Developer, Русеев Никита](https://github.com/nruseev)
